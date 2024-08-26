@@ -7,4 +7,4 @@ Circle.area = 5;
 
 let readonly = Circle.area;
 
-document.write(readonly);
+console.log(readonly);
